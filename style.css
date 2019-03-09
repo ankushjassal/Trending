@@ -1,0 +1,9 @@
+body{background-color: #80808014 !important;}
+.section-backColor{background: #ffff;}
+.section-image{margin-top: 50px; margin-bottom: 10px; padding-top: 10px; padding-bottom: 10px;}
+a{text-decoration: none;}
+table:first-child{border-right: 1px solid #80808014; float: left; margin-right: 30px; margin-bottom: 10px;}
+.availablity{margin-bottom: 10px;}
+.social-icons{display: inline;}
+.social-icons i{padding-right: 30px;}
+section{background: #ffff;}
